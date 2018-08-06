@@ -1,0 +1,11 @@
+1533554515974	geckodriver	INFO	geckodriver 0.21.0
+1533554515978	geckodriver	INFO	Listening on 127.0.0.1:37259
+1533554516985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HBWhGrEAXGei"
+1533554519886	Marionette	INFO	Listening on port 46779
+1533554519901	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gdk-Message: 14:22:11.919: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1032.
+
+Gdk-Message: 14:22:11.919: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1032.
+
+Gdk-Message: 14:22:11.919: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1032.
+
