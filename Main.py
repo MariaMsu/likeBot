@@ -1,6 +1,13 @@
 from pyvirtualdisplay import Display
-from Log_in import vk_Login
+from selenium import webdriver
+from Log_in import *
+
+
+driver = webdriver.Firefox() # webdriver init
+
 
 display = Display(visible=1, size=[800, 800])
 display.start()
-vk_Login()
+target_login(driver)
+# vk_login(driver)
+driver.get("https://vktarget.ru/list/")
