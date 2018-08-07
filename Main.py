@@ -1,19 +1,25 @@
 import re
 from time import sleep  # this should go at the top of the file
+
+import selenium
+
 import driver
 from vk_handler import *
 
 
 def check_profit():
+    i = 1
+    driver.get("https://vktarget.ru/list/")
     while True:
         try:
-            print(":)#8======>")
-            driver.get("https://vktarget.ru/list/")
-            button = driver.find_element_by_xpath('//div[@data-bind="check"]')
-            print("(.)(.)")
+            xpath = str("/html/body/div[22]/div/div[3]/div[7]/div["+str(i)+"]/div[6]")
+            button = driver.find_element_by_xpath(xpath)
+            sleep(2) # pause for stop yorzat'
             button.click()
-        except:
+            i += 1
+        except selenium.common.exceptions.NoSuchElementException:
             break
+
 
 def find_tasks(task_list):  # parse task_list for separated social network tasks
     vk_tasks, gplus_tasks, insta_tasks = [], [], []
@@ -48,5 +54,5 @@ def get_task_list():  # parse target for all tasks
 #TODO
 #time
 
-#find_tasks(get_task_list())
+find_tasks(get_task_list())
 check_profit()
