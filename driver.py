@@ -8,8 +8,9 @@ def init():  # setup webdriver and login to target
     display = Display(visible=1, size=[800, 800])
     display.start()
     target_login(driver)
-    # vk_login(driver)
-    # fb_login(driver)
+    vk_login(driver)
+    insta_login(driver)
+    fb_login(driver)
     return driver
 
 

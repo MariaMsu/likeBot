@@ -1,3 +1,5 @@
+from time import sleep
+
 VK_LOGIN = '89258396534'
 VK_PASSWORD = 'k0zhepnin@'
 
@@ -37,14 +39,16 @@ def fb_login(driver):
 
 def insta_login(driver):
     driver.get("https://www.instagram.com/accounts/login/")
+    sleep(3)
     text_area = driver.find_element_by_name("username")
     text_area.send_keys(INSTA_LOGIN)
 
-    text_area = driver.find_element_by_name("password")
+    text_area = driver.find_element_by_name('password')
     text_area.send_keys(INSTA_PASSWORD)
 
-    submit = driver.find_element_by_class_name("_5f5mN jIbKX KUBKM yZn4P ")
+    submit = driver.find_element_by_xpath("/html/body/span/section/main/div/article/div/div[1]/div/form/span/button")
     submit.click()
+    sleep(2)
 
 
 

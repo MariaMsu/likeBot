@@ -5321,3 +5321,612 @@ JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.4761923541
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1533669232298	geckodriver	INFO	geckodriver 0.21.0
+1533669232316	geckodriver	INFO	Listening on 127.0.0.1:55646
+1533669233332	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.dNUEjUz9ncgN"
+2018-08-07 22:13:57.439 plugin-container[34735:4958348] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 22:13:58.292 plugin-container[34736:4958386] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533669239217	Marionette	INFO	Listening on port 55654
+1533669239309	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 22:14:00.466 plugin-container[34743:4958548] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 74: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-08-07 22:15:34.525 plugin-container[34994:4962658] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMNc4/yx/l/en_GB/qXx3bvxB0uD.js, line 1338: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMNc4/yx/l/en_GB/qXx3bvxB0uD.js, line 1338: unreachable code after return statement
+1533670685425	geckodriver	INFO	geckodriver 0.21.0
+1533670685448	geckodriver	INFO	Listening on 127.0.0.1:56012
+1533670686473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.sZcyuXT5stNy"
+2018-08-07 22:38:09.829 plugin-container[35278:4989000] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8907, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 22:38:10.600 plugin-container[35279:4989036] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 22:38:11.623 plugin-container[35280:4989114] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533670691694	Marionette	INFO	Listening on port 56019
+1533670691779	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-08-07 22:40:11.249 plugin-container[35453:4991705] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 22:40:18.346 plugin-container[35454:4991846] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x874b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533670941869	geckodriver	INFO	geckodriver 0.21.0
+1533670941890	geckodriver	INFO	Listening on 127.0.0.1:56265
+1533670942920	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.WFIg0tDGH1u8"
+2018-08-07 22:42:27.216 plugin-container[35494:4994358] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 22:42:28.352 plugin-container[35495:4994384] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533670948907	Marionette	INFO	Listening on port 56272
+1533670948982	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 22:42:30.208 plugin-container[35500:4994595] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1533671082349	geckodriver	INFO	geckodriver 0.21.0
+1533671082379	geckodriver	INFO	Listening on 127.0.0.1:56392
+1533671083379	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.nxABO6OvSJoI"
+2018-08-07 22:44:49.090 plugin-container[35521:4997745] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 22:44:49.692 plugin-container[35522:4997775] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533671090565	Marionette	INFO	Listening on port 56399
+1533671090625	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 22:44:51.254 plugin-container[35523:4997919] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1533671220843	geckodriver	INFO	geckodriver 0.21.0
+1533671220885	geckodriver	INFO	Listening on 127.0.0.1:56550
+1533671221897	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.UhcbCzBi4Np0"
+2018-08-07 22:47:07.290 plugin-container[35653:5004037] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 22:47:08.419 plugin-container[35654:5004059] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8607, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533671229243	Marionette	INFO	Listening on port 56557
+1533671229365	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 22:47:10.483 plugin-container[35660:5004267] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 35277, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1533672219659	geckodriver	INFO	geckodriver 0.21.0
+1533672219683	geckodriver	INFO	Listening on 127.0.0.1:56901
+1533672220688	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.Dtdx2Buq7jUp"
+2018-08-07 23:03:43.836 plugin-container[35902:5022336] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:03:44.509 plugin-container[35903:5022360] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:03:45.670 plugin-container[35904:5022444] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533672225756	Marionette	INFO	Listening on port 56908
+1533672225863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-08-07 23:04:09.481 plugin-container[36073:5023383] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-08-07 23:04:25.429 plugin-container[36074:5023644] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1533672341298	geckodriver	INFO	geckodriver 0.21.0
+1533672341330	geckodriver	INFO	Listening on 127.0.0.1:57104
+1533672342328	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.eBODguMYnENv"
+2018-08-07 23:05:45.667 plugin-container[36092:5024995] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:05:46.515 plugin-container[36093:5025023] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533672347063	Marionette	INFO	Listening on port 57111
+1533672347159	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:05:47.294 plugin-container[36094:5025129] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7303, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1533672476862	geckodriver	INFO	geckodriver 0.21.0
+1533672476886	geckodriver	INFO	Listening on 127.0.0.1:57209
+1533672477888	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.DmSCg3D8bpaK"
+2018-08-07 23:08:01.574 plugin-container[36115:5027317] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:08:02.300 plugin-container[36116:5027361] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8507, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533672482652	Marionette	INFO	Listening on port 57216
+1533672482728	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:08:03.977 plugin-container[36121:5027515] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7947, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-08-07 23:14:18.898 plugin-container[36124:5034707] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8003, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533672864605	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1533672865765	addons.webextension.{62c1d54c-f371-4d89-8e07-69e67c8ebea8}	WARN	Please specify whether you want browser_style or not in your browser_action options.
+1533672977507	geckodriver	INFO	geckodriver 0.21.0
+1533672977526	geckodriver	INFO	Listening on 127.0.0.1:57429
+1533672978546	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.QNVOLtyi8bg9"
+2018-08-07 23:16:22.909 plugin-container[36139:5038201] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x790b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:16:23.706 plugin-container[36140:5038230] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x870b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533672984091	Marionette	INFO	Listening on port 57436
+1533672984243	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:16:26.144 plugin-container[36145:5038400] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1533673248461	geckodriver	INFO	geckodriver 0.21.0
+1533673248517	geckodriver	INFO	Listening on 127.0.0.1:57559
+1533673249490	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.1rly0bTigrdu"
+2018-08-07 23:20:53.374 plugin-container[36174:5044735] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:20:53.944 plugin-container[36175:5044762] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:20:54.909 plugin-container[36176:5044843] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533673254952	Marionette	INFO	Listening on port 57566
+1533673255116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-08-07 23:22:10.717 plugin-container[36186:5047117] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533673407975	geckodriver	INFO	geckodriver 0.21.0
+1533673407994	geckodriver	INFO	Listening on 127.0.0.1:57700
+1533673408998	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.gB2RuVTNVAX2"
+2018-08-07 23:23:33.997 plugin-container[36210:5048519] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:23:34.238 plugin-container[36211:5048540] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7207, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533673414918	Marionette	INFO	Listening on port 57707
+1533673415037	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:23:37.865 plugin-container[36216:5048729] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7207, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1533673487886	geckodriver	INFO	geckodriver 0.21.0
+1533673487904	geckodriver	INFO	Listening on 127.0.0.1:57827
+1533673488915	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.ZUvOugeidsU3"
+2018-08-07 23:24:53.583 plugin-container[36245:5050925] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8507, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:24:54.311 plugin-container[36246:5050952] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8647, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533673495171	Marionette	INFO	Listening on port 57834
+1533673495286	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:24:55.582 plugin-container[36247:5051066] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1533673550712	geckodriver	INFO	geckodriver 0.21.0
+1533673550730	geckodriver	INFO	Listening on 127.0.0.1:57954
+1533673551740	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.TIF9fVOk0bz0"
+2018-08-07 23:25:57.612 plugin-container[36267:5052377] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:25:58.171 plugin-container[36268:5052400] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533673558731	Marionette	INFO	Listening on port 57961
+1533673558765	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:26:00.773 plugin-container[36273:5052607] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6d07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 74: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+2018-08-07 23:26:31.218 plugin-container[36290:5053361] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x882f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-08-07 23:26:37.565 plugin-container[36291:5053496] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[Child 35904, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 35904, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1533674254203	geckodriver	INFO	geckodriver 0.21.0
+1533674254222	geckodriver	INFO	Listening on 127.0.0.1:58261
+1533674255224	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.sNn19wsVAbiA"
+2018-08-07 23:37:38.205 plugin-container[36547:5069979] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:37:39.043 plugin-container[36548:5070015] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533674260056	Marionette	INFO	Listening on port 58268
+2018-08-07 23:37:40.143 plugin-container[36549:5070109] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533674260151	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 36545, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+2018-08-07 23:38:35.069 plugin-container[36732:5072283] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533674319693	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1533674320926	addons.webextension.{62c1d54c-f371-4d89-8e07-69e67c8ebea8}	WARN	Please specify whether you want browser_style or not in your browser_action options.
+1533674412738	geckodriver	INFO	geckodriver 0.21.0
+1533674412758	geckodriver	INFO	Listening on 127.0.0.1:58393
+1533674413772	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.yXaBBLEvDp2O"
+2018-08-07 23:40:17.090 plugin-container[36752:5074637] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:40:17.378 plugin-container[36753:5074714] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533674417600	Marionette	INFO	Listening on port 58400
+1533674417745	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:40:18.873 plugin-container[36758:5074875] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-08-07 23:41:18.753 plugin-container[36772:5076961] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533674525299	geckodriver	INFO	geckodriver 0.21.0
+1533674525330	geckodriver	INFO	Listening on 127.0.0.1:58533
+1533674526324	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.IeoizXnhnSxx"
+2018-08-07 23:42:09.387 plugin-container[36787:5077834] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:42:10.043 plugin-container[36788:5077867] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533674530661	Marionette	INFO	Listening on port 58540
+1533674530798	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:42:11.242 plugin-container[36789:5077997] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 4: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1533674657972	geckodriver	INFO	geckodriver 0.21.0
+1533674657993	geckodriver	INFO	Listening on 127.0.0.1:58737
+1533674659004	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.EyZI2ITrYSej"
+2018-08-07 23:44:22.813 plugin-container[36817:5080441] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:44:23.682 plugin-container[36818:5080467] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533674664346	Marionette	INFO	Listening on port 58744
+1533674664399	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:44:25.645 plugin-container[36823:5080628] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-08-07 23:44:51.180 plugin-container[36824:5081126] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3icJY4/yg/l/ru_RU/qXx3bvxB0uD.js, line 1338: unreachable code after return statement
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 4: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 155: NS_ERROR_ILLEGAL_VALUE: 
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+1533674781093	geckodriver	INFO	geckodriver 0.21.0
+1533674781112	geckodriver	INFO	Listening on 127.0.0.1:58944
+1533674782130	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.pMmEIyHFPBq6"
+2018-08-07 23:46:25.336 plugin-container[36842:5083029] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:46:25.934 plugin-container[36843:5083054] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533674786659	Marionette	INFO	Listening on port 58951
+1533674786772	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:46:27.095 plugin-container[36844:5083251] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-08-07 23:46:52.919 plugin-container[36852:5084031] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-08-07 23:46:59.993 plugin-container[36853:5084214] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://j.cackle.me/xdm/index.html?xdm_e=https%3A%2F%2Fvktarget.ru&xdm_c=default2691&xdm_p=1, line 8: ReferenceError: easyXDM is not defined
+JavaScript error: https://j.cackle.me/xdm/index.html?xdm_e=https%3A%2F%2Fvktarget.ru&xdm_c=default2691&xdm_p=1, line 60: ReferenceError: easyXDM is not defined
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 36841, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 36841, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 36841, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 36841, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 2874: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIContentPermissionRequest.cancel]
+1533674883864	geckodriver	INFO	geckodriver 0.21.0
+1533674883885	geckodriver	INFO	Listening on 127.0.0.1:59171
+1533674884887	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.BMpikinUtY7A"
+2018-08-07 23:48:08.204 plugin-container[36864:5085958] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:48:08.761 plugin-container[36865:5085982] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533674889442	Marionette	INFO	Listening on port 59178
+1533674889577	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:48:09.782 plugin-container[36866:5086102] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1533674963091	geckodriver	INFO	geckodriver 0.21.0
+1533674963144	geckodriver	INFO	Listening on 127.0.0.1:59364
+1533674964112	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.LOi9kYOVyqqX"
+2018-08-07 23:49:27.908 plugin-container[36981:5089980] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:49:28.463 plugin-container[36982:5090019] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533674968721	Marionette	INFO	Listening on port 59372
+1533674968870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-08-07 23:49:32.020 plugin-container[36992:5090302] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMNc4/yx/l/en_GB/qXx3bvxB0uD.js, line 1338: unreachable code after return statement
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.9842775759018789&callback=jQuery1102044918309822656555_1533674428038&_=1533674428067, line 1: TypeError: jQuery1102044918309822656555_1533674428038 is not a function
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 4: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 4: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+2018-08-07 23:51:08.692 plugin-container[37051:5093500] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:51:17.807 plugin-container[37064:5093868] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMNc4/yx/l/en_GB/qXx3bvxB0uD.js, line 1338: unreachable code after return statement
+JavaScript error: https://vktarget.ru/js/list.js?v=a0d751f77fe89affc1b967080ea255cad0252e40, line 329: TypeError: res.task is undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x110016,name=PBackground::Msg_PCacheStorageConstructor) Channel error: cannot send/recv
+
+1533675476675	geckodriver	INFO	geckodriver 0.21.0
+1533675476693	geckodriver	INFO	Listening on 127.0.0.1:59718
+1533675477699	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.tphss3u6JznU"
+2018-08-07 23:57:59.774 plugin-container[37187:5103987] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 23:58:00.221 plugin-container[37188:5104010] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533675480527	Marionette	INFO	Listening on port 59725
+1533675480572	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 23:58:01.285 plugin-container[37189:5104117] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+[Parent 37185, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.8743940793682428&callback=jQuery110206955304131645559_1533675538664&_=1533675538665, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.9034618953917757&callback=jQuery1102030225431902584265_1533675550349&_=1533675550350, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.6442280108695329&callback=jQuery1102030225431902584265_1533675550349&_=1533675550351, line 1: SyntaxError: expected expression, got '<'
+2018-08-08 00:00:11.268 plugin-container[37188:5106228] NSNotificationCenter connection invalid
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.5918760992162783&callback=jQuery1102030225431902584265_1533675550349&_=1533675550352, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.7858080189833444&callback=jQuery1102030225431902584265_1533675550349&_=1533675550353, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.23849754233548126&callback=jQuery1102016678226287395004_1533675716879&_=1533675716880, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.16997347223816928&callback=jQuery1102016678226287395004_1533675716879&_=1533675716881, line 1: SyntaxError: expected expression, got '<'
+1533675741312	geckodriver	INFO	geckodriver 0.21.0
+1533675741331	geckodriver	INFO	Listening on 127.0.0.1:59964
+1533675742337	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.ac8fthHfh68f"
+2018-08-08 00:02:25.596 plugin-container[37386:5109236] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:02:26.070 plugin-container[37387:5109260] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533675746841	Marionette	INFO	Listening on port 59971
+1533675746904	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:02:27.296 plugin-container[37388:5109395] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.24955525563231862&callback=jQuery1102016678226287395004_1533675716879&_=1533675716882, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.7545667162693968&callback=jQuery1102016678226287395004_1533675716879&_=1533675716883, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.2227634248926652&callback=jQuery1102016678226287395004_1533675716879&_=1533675716884, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.5240299379250372&callback=jQuery1102016678226287395004_1533675716879&_=1533675716885, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 155: NS_ERROR_ILLEGAL_VALUE: 
+JavaScript error: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 4: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.3693427001108901&callback=jQuery1102016678226287395004_1533675716879&_=1533675716886, line 1: SyntaxError: expected expression, got '<'
+2018-08-08 00:03:49.971 plugin-container[37423:5111425] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMNc4/yx/l/en_GB/qXx3bvxB0uD.js, line 1338: unreachable code after return statement
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.1261888443629019&callback=jQuery1102016678226287395004_1533675716879&_=1533675716887, line 1: SyntaxError: expected expression, got '<'
+1533675913865	geckodriver	INFO	geckodriver 0.21.0
+1533675913887	geckodriver	INFO	Listening on 127.0.0.1:60193
+1533675914887	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.5JvwZ0uK0hZt"
+2018-08-08 00:05:18.410 plugin-container[37451:5113104] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:05:19.246 plugin-container[37452:5113138] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x860b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.0805446600770483&callback=jQuery1102016678226287395004_1533675716879&_=1533675716888, line 1: SyntaxError: expected expression, got '<'
+1533675919938	Marionette	INFO	Listening on port 60200
+1533675920025	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:05:20.150 plugin-container[37453:5113249] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.7525685691214213&callback=jQuery1102016678226287395004_1533675716879&_=1533675716889, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.08930773969993078&callback=jQuery1102016678226287395004_1533675716879&_=1533675716890, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 4: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 155: NS_ERROR_ILLEGAL_VALUE: 
+1533676008160	geckodriver	INFO	geckodriver 0.21.0
+1533676008181	geckodriver	INFO	Listening on 127.0.0.1:60403
+1533676009199	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.rKbCexnpRISq"
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.27635942789097756&callback=jQuery1102016678226287395004_1533675716879&_=1533675716891, line 1: SyntaxError: expected expression, got '<'
+2018-08-08 00:06:52.528 plugin-container[37469:5114890] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7907, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:06:53.119 plugin-container[37470:5114916] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533676013269	Marionette	INFO	Listening on port 60410
+1533676013363	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:06:54.681 plugin-container[37475:5115097] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.4471678456209166&callback=jQuery1102016678226287395004_1533675716879&_=1533675716892, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.7244371339068898&callback=jQuery1102016678226287395004_1533675716879&_=1533675716893, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.05386865436792354&callback=jQuery1102016678226287395004_1533675716879&_=1533675716894, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMNc4/yx/l/en_GB/qXx3bvxB0uD.js, line 1338: unreachable code after return statement
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.214618832446399&callback=jQuery1102016678226287395004_1533675716879&_=1533675716895, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.12066501186472223&callback=jQuery1102016678226287395004_1533675716879&_=1533675716896, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 4: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 155: NS_ERROR_ILLEGAL_VALUE: 
+2018-08-08 00:08:21.781 plugin-container[37503:5117077] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.5775811869738844&callback=jQuery1102016678226287395004_1533675716879&_=1533675716897, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMNc4/yx/l/en_GB/qXx3bvxB0uD.js, line 1338: unreachable code after return statement
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.9351901443326515&callback=jQuery1102016678226287395004_1533675716879&_=1533675716898, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.3245488307556559&callback=jQuery1102016678226287395004_1533675716879&_=1533675716899, line 1: SyntaxError: expected expression, got '<'
+2018-08-08 00:09:31.055 plugin-container[37525:5118776] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.4343991937314303&callback=jQuery1102016678226287395004_1533675716879&_=1533675716900, line 1: SyntaxError: expected expression, got '<'
+1533676182941	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1533676185565	addons.webextension.{62c1d54c-f371-4d89-8e07-69e67c8ebea8}	WARN	Please specify whether you want browser_style or not in your browser_action options.
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.9266084425780488&callback=jQuery1102016678226287395004_1533675716879&_=1533675716901, line 1: SyntaxError: expected expression, got '<'
+1533676228195	geckodriver	INFO	geckodriver 0.21.0
+1533676228219	geckodriver	INFO	Listening on 127.0.0.1:60674
+1533676229228	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.D88PXQMRpD88"
+2018-08-08 00:10:34.041 plugin-container[37537:5120232] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:10:34.913 plugin-container[37538:5120261] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x894b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.2584847805401904&callback=jQuery1102016678226287395004_1533675716879&_=1533675716902, line 1: SyntaxError: expected expression, got '<'
+1533676235606	Marionette	INFO	Listening on port 60682
+1533676235809	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:10:36.153 plugin-container[37539:5120416] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x850b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.25870378570761643&callback=jQuery1102016678226287395004_1533675716879&_=1533675716903, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientHandle::Msg_Teardown Route error: message sent to unknown actor ID
+
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.603527622044053&callback=jQuery1102016678226287395004_1533675716879&_=1533675716904, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.5523691008949434&callback=jQuery1102016678226287395004_1533675716879&_=1533675716905, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMNc4/yx/l/en_GB/qXx3bvxB0uD.js, line 1338: unreachable code after return statement
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.17407909114610443&callback=jQuery1102016678226287395004_1533675716879&_=1533675716906, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.7695323405308999&callback=jQuery1102016678226287395004_1533675716879&_=1533675716907, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: CustomError: Jsloader error (code #1): Timeout reached for loading script //www.google.com/js/bg/NhdpwwQL9Y3RaxXYKB-7CUJZ3tOz3XdGyiFKVMATx30.js
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 155: NS_ERROR_ILLEGAL_VALUE: 
+JavaScript error: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 4: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.24623041914535126&callback=jQuery1102016678226287395004_1533675716879&_=1533675716908, line 1: SyntaxError: expected expression, got '<'
+2018-08-08 00:12:41.067 plugin-container[37575:5123578] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.8144306654864385&callback=jQuery1102016678226287395004_1533675716879&_=1533675716909, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMNc4/yx/l/en_GB/qXx3bvxB0uD.js, line 1338: unreachable code after return statement
+1533676383079	geckodriver	INFO	geckodriver 0.21.0
+1533676383108	geckodriver	INFO	Listening on 127.0.0.1:60952
+1533676384105	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.Oe4gyIAmwZ54"
+2018-08-08 00:13:13.018 plugin-container[37587:5124206] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-08 00:13:14.935 plugin-container[37588:5124250] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533676396308	Marionette	INFO	Listening on port 60959
+1533676396502	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-08 00:13:21.105 plugin-container[37600:5124518] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8507, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.6151733404021377&callback=jQuery1102016678226287395004_1533675716879&_=1533675716910, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.7540229011621934&callback=jQuery1102016678226287395004_1533675716879&_=1533675716911, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.2628275935583726&callback=jQuery1102016678226287395004_1533675716879&_=1533675716912, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.8081013900709099&callback=jQuery1102016678226287395004_1533675716879&_=1533675716913, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.2528033925457914&callback=jQuery1102016678226287395004_1533675716879&_=1533675716914, line 1: SyntaxError: expected expression, got '<'
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.11591688288045221&callback=jQuery1102016678226287395004_1533675716879&_=1533675716915, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.04520556170761869&callback=jQuery1102016678226287395004_1533675716879&_=1533675716916, line 1: SyntaxError: expected expression, got '<'
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown

@@ -5,6 +5,10 @@ import selenium
 
 import driver
 from vk_handler import *
+from fb_handler import *
+from insta_handler import *
+import random
+
 
 
 def check_profit():
@@ -14,7 +18,7 @@ def check_profit():
         try:
             xpath = str("/html/body/div[22]/div/div[3]/div[7]/div["+str(i)+"]/div[6]")
             button = driver.find_element_by_xpath(xpath)
-            sleep(2) # pause for stop yorzat'
+            sleep(random.uniform(2,10)) # pause for stop yorzat'
             button.click()
             i += 1
         except selenium.common.exceptions.NoSuchElementException:
@@ -22,7 +26,7 @@ def check_profit():
 
 
 def find_tasks(task_list):  # parse task_list for separated social network tasks
-    vk_tasks, gplus_tasks, insta_tasks = [], [], []
+    vk_tasks, gplus_tasks, insta_tasks, fb_tasks = [], [], [], []
     for task in task_list:
         if task.find("https://vk.com") != -1:
             vk_tasks.append(task)
@@ -30,13 +34,17 @@ def find_tasks(task_list):  # parse task_list for separated social network tasks
             insta_tasks.append(task)
         elif task.find("https://plus.google.com") != -1:
             gplus_tasks.append(task)
+        elif task.find("https://www.facebook.com") != -1:
+            fb_tasks.append(task)
 
     if vk_tasks:
         vk_task_manager(vk_tasks)
+    if fb_tasks:
+        fb_task_manager(fb_tasks)
     # if gplus_tasks:
     #     gplus_handler(gplus_tasks)
-    # if insta_tasks:
-    #     insta_handler(insta_tasks)
+    if insta_tasks:
+        insta_task_manager(insta_tasks)
 
 
 def get_task_list():  # parse target for all tasks
@@ -55,4 +63,5 @@ def get_task_list():  # parse target for all tasks
 #time
 
 find_tasks(get_task_list())
+sleep(5)
 check_profit()
