@@ -5,10 +5,9 @@ import re
 from time import sleep # this should go at the top of the file
 
 
-
-find_tasks(task_list):
+def find_tasks(task_list): # parse task_list for separated social network tasks
     vk_tasks, gplus_tasks, insta_tasks = [], [], []
-    while task in task_list:
+    for task in task_list:
         if task.find("https://vk.com") != -1:
             vk_tasks.append(task)
         elif task.find("https://www.instagram.com") != -1:
@@ -23,24 +22,36 @@ find_tasks(task_list):
     if insta_tasks:
         insta_handler(insta_tasks)
 
-        
+
+def init(): # setup webdriver and login to target
+    driver = webdriver.Firefox()  # webdriver init
+    display = Display(visible=1, size=[800, 800])
+    display.start()
+    target_login(driver)
+    driver.get("https://vktarget.ru/list/")
+    return driver
 
 
-driver = webdriver.Firefox() # webdriver init
+def get_task_list(driver): # parse target for all tasks
+    sleep(5)  # ВАЖНО
+    html = driver.execute_script("return document.getElementsByTagName('html')[0].innerHTML")
+    # TODO:
+    print(html)
+
+    task_list = re.findall(r'<a rel="nofollow noopener" data-bind="url" target="_blank" href=".{1,128}</a>', html)
+    # TODO:
+    print(task_list)
+
+    return(task_list)
 
 
-display = Display(visible=1, size=[800, 800])
-display.start()
-target_login(driver)
-# vk_login(driver)
-driver.get("https://vktarget.ru/list/")
-
-sleep(5) # ВАЖНО
-html = driver.execute_script("return document.getElementsByTagName('html')[0].innerHTML")
-#TODO:
-print (html)
+def get_driver():
+    return driver
 
 
-task_list = re.findall(r'<a rel="nofollow noopener" data-bind="url" target="_blank" href=".{1,128}</a>', html)
-#TODO:
-print(task_list)
+
+#TODO
+#time
+driver = init()
+find_tasks(get_task_list(driver))
+
