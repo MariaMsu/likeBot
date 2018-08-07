@@ -302,3 +302,220 @@ Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/sha
 exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
 Line: 1667, column: 0
 console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1667, column: 0"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 781, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 781, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1667, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1667, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 781, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 781, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1667, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1667, column: 0"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1533560755629	geckodriver	INFO	geckodriver 0.21.0
+1533560755657	geckodriver	INFO	Listening on 127.0.0.1:63587
+1533560756656	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.oBVwCxHXKtFp"
+2018-08-06 16:05:59.254 plugin-container[26045:4108640] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-06 16:05:59.722 plugin-container[26046:4108666] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533560760538	Marionette	INFO	Listening on port 63595
+1533560760580	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-06 16:06:00.829 plugin-container[26047:4108834] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1533560849073	geckodriver	INFO	geckodriver 0.21.0
+1533560849101	geckodriver	INFO	Listening on 127.0.0.1:63711
+1533560850088	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.EAKdYVEXnVS1"
+2018-08-06 16:07:32.516 plugin-container[26223:4111271] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-06 16:07:32.922 plugin-container[26224:4111296] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533560853375	Marionette	INFO	Listening on port 63718
+1533560853473	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-06 16:07:33.485 plugin-container[26225:4111390] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1533561076419	geckodriver	INFO	geckodriver 0.21.0
+1533561076438	geckodriver	INFO	Listening on 127.0.0.1:63876
+1533561077450	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.vSelMUpKbuEB"
+2018-08-06 16:11:19.935 plugin-container[26251:4115888] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-06 16:11:20.282 plugin-container[26252:4115916] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533561080792	Marionette	INFO	Listening on port 63883
+1533561080838	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-06 16:11:20.873 plugin-container[26253:4116019] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6d0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://j.cackle.me/xdm/index.html?xdm_e=https%3A%2F%2Fvktarget.ru&xdm_c=default3054&xdm_p=1, line 8: ReferenceError: easyXDM is not defined
+JavaScript error: https://j.cackle.me/xdm/index.html?xdm_e=https%3A%2F%2Fvktarget.ru&xdm_c=default3054&xdm_p=1, line 60: ReferenceError: easyXDM is not defined
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1533561112319	geckodriver	INFO	geckodriver 0.21.0
+1533561112344	geckodriver	INFO	Listening on 127.0.0.1:63984
+1533561113338	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.zMPN3nurVrAf"
+2018-08-06 16:11:55.756 plugin-container[26270:4116776] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8407, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-06 16:11:56.132 plugin-container[26271:4116824] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533561116604	Marionette	INFO	Listening on port 63991
+1533561116726	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-06 16:11:56.778 plugin-container[26272:4116932] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x890b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-08-06 16:14:01.915 plugin-container[26284:4118860] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://cackle.me/widget.js, line 1: ReferenceError: cackle_widget is not defined
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.8327282600258045&callback=jQuery110205356447745396218_1533561122140&_=1533561122141, line 1: ReferenceError: jQuery110205356447745396218_1533561122140 is not defined
+JavaScript error: https://j.cackle.me/login/1/bootstrap?callback=cackle_Login1cackle_login, line 1: ReferenceError: cackle_Login1cackle_login is not defined
+JavaScript warning: http://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.gstatic.com/recaptcha/api2/v1531759913576/recaptcha__ru.js, line 511: Error: reCAPTCHA placeholder element must be empty
+JavaScript error: http://localhost:63342/likeBot/s.html?_ijt=obdcadgqf6hpuo4dokivfhcnt4, line 1269: ReferenceError: should_send_in is not defined
+1533561359288	geckodriver	INFO	geckodriver 0.21.0
+1533561359319	geckodriver	INFO	Listening on 127.0.0.1:64214
+1533561360312	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.7x4Vy6Y08gF2"
+2018-08-06 16:16:03.338 plugin-container[26296:4122347] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-06 16:16:04.466 plugin-container[26297:4122374] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533561365187	Marionette	INFO	Listening on port 64221
+1533561365326	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-06 16:16:05.450 plugin-container[26298:4122535] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.vktarget.ru/get_events.php?nocache=0.8327282600258045&callback=jQuery110205356447745396218_1533561122140&_=1533561122141, line 1: ReferenceError: jQuery110205356447745396218_1533561122140 is not defined
+JavaScript error: https://cackle.me/widget.js, line 1: ReferenceError: cackle_widget is not defined
+JavaScript error: https://j.cackle.me/login/1/bootstrap?callback=cackle_Login1cackle_login, line 1: ReferenceError: cackle_Login1cackle_login is not defined
+2018-08-06 16:19:42.175 plugin-container[26307:4127691] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.gstatic.com/recaptcha/api2/v1531759913576/recaptcha__ru.js, line 511: Error: reCAPTCHA placeholder element must be empty
+JavaScript error: http://localhost:63342/likeBot/s.html?_ijt=j9qbgj4t5hgj6rnpl66viv2thh, line 1269: ReferenceError: should_send_in is not defined
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 2874: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIContentPermissionRequest.cancel]
+1533629974464	geckodriver	INFO	geckodriver 0.21.0
+1533629974488	geckodriver	INFO	Listening on 127.0.0.1:65406
+1533629975524	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.9ZxP9qtGFz2R"
+2018-08-07 11:19:41.397 plugin-container[26686:4188636] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 11:19:42.364 plugin-container[26687:4188666] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533629982633	Marionette	INFO	Listening on port 65413
+1533629982723	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 11:19:44.816 plugin-container[26689:4188818] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x703f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1533630053458	geckodriver	INFO	geckodriver 0.21.0
+1533630053477	geckodriver	INFO	Listening on 127.0.0.1:49187
+1533630054489	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.9tCpnERfjmWL"
+2018-08-07 11:20:59.107 plugin-container[26864:4191702] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 11:20:59.727 plugin-container[26865:4191728] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533630060639	Marionette	INFO	Listening on port 49194
+1533630060784	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 11:21:01.459 plugin-container[26866:4191884] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1533630121287	geckodriver	INFO	geckodriver 0.21.0
+1533630121311	geckodriver	INFO	Listening on 127.0.0.1:49328
+1533630122322	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.ct41H1QxmHiP"
+2018-08-07 11:22:06.229 plugin-container[26883:4193431] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 11:22:06.923 plugin-container[26884:4193463] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533630127316	Marionette	INFO	Listening on port 49336
+1533630127450	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 11:22:08.813 plugin-container[26889:4193619] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7747, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-08-07 11:23:34.494 plugin-container[26892:4195105] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533630254238	geckodriver	INFO	geckodriver 0.21.0
+1533630254264	geckodriver	INFO	Listening on 127.0.0.1:49517
+1533630255276	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/tv/_ft5b9tn5ynbjqvq6lrvx9z80000gn/T/rust_mozprofile.mUuqit0vL1F1"
+2018-08-07 11:24:19.873 plugin-container[26900:4196046] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-08-07 11:24:20.672 plugin-container[26901:4196067] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8407, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1533630260970	Marionette	INFO	Listening on port 49524
+1533630261171	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-08-07 11:24:21.610 plugin-container[26902:4196199] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vktarget.ru/js/vendor/jquery-1.11.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-08-07 11:30:04.762 firefox-bin[26899:4195787] -deltaZ is deprecated for NSEventTypeMagnify.  Please use -magnification.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+

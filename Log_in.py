@@ -4,7 +4,7 @@ from selenium import webdriver
 VK_LOGIN = '89104696981'
 VK_PASSWORD = 'cherep/'
 
-TARGET_LOGIN = "Kozhevnikov.Maria@gmail.com"
+TARGET_LOGIN = "MariaKozevnikov@gmail.com"
 TARGET_PASSWORD = "k0zhepnin@"
 
 
