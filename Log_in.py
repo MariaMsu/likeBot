@@ -12,6 +12,9 @@ FB_PASSWORD = 'k0zhepnin@'
 INSTA_LOGIN = 'maria.kozevnikov'
 INSTA_PASSWORD = 'k0zhepnin@'
 
+TWIT_LOGIN = '89258396534'
+TWIT_PASSWORD = 'k0zhepnin@'
+
 
 def vk_login(driver):
     driver.get("https://m.vk.com/")
@@ -34,6 +37,19 @@ def fb_login(driver):
     text_area.send_keys(FB_PASSWORD)
 
     submit = driver.find_element_by_id('loginbutton')
+    submit.click()
+
+
+def twit_login(driver):
+    driver.get("https://twitter.com/login")
+    sleep(1)
+    text_area = driver.find_element_by_xpath("/html/body/div[1]/div[2]/div/div/div[1]/form/fieldset/div[1]/input")
+    text_area.send_keys(TWIT_LOGIN)
+
+    text_area = driver.find_element_by_xpath("/html/body/div[1]/div[2]/div/div/div[1]/form/fieldset/div[2]/input")
+    text_area.send_keys(TWIT_PASSWORD)
+
+    submit = driver.find_element_by_xpath("//button[@type='submit']")
     submit.click()
 
 

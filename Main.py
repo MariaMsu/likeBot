@@ -62,6 +62,6 @@ def get_task_list():  # parse target for all tasks
 #TODO
 #time
 
-find_tasks(get_task_list())
-sleep(5)
-check_profit()
+# find_tasks(get_task_list())
+# sleep(5)
+# check_profit()

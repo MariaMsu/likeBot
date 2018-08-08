@@ -15,3 +15,6 @@ def fb_task_manager(task_list):
     for task in task_list:
         if task.find("странице") != -1:
             like_on_page(task[task.find("href=")+6:task.find(">")-1])
+
+
+
