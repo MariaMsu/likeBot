@@ -1,4 +1,5 @@
 from time import sleep
+from driver import driver
 
 VK_LOGIN = '89258396534'
 VK_PASSWORD = 'k0zhepnin@'
@@ -16,7 +17,7 @@ TWIT_LOGIN = '89258396534'
 TWIT_PASSWORD = 'k0zhepnin@'
 
 
-def vk_login(driver):
+def vk_login():
     driver.get("https://m.vk.com/")
     text_area = driver.find_element_by_name('email')
     text_area.send_keys(VK_LOGIN)
@@ -28,7 +29,7 @@ def vk_login(driver):
     submit.click()
 
 
-def fb_login(driver):
+def fb_login():
     driver.get("https://www.facebook.com")
     text_area = driver.find_element_by_name('email')
     text_area.send_keys(FB_LOGIN)
@@ -40,7 +41,7 @@ def fb_login(driver):
     submit.click()
 
 
-def twit_login(driver):
+def twit_login():
     driver.get("https://twitter.com/login")
     sleep(1)
     text_area = driver.find_element_by_xpath("/html/body/div[1]/div[2]/div/div/div[1]/form/fieldset/div[1]/input")
@@ -53,7 +54,7 @@ def twit_login(driver):
     submit.click()
 
 
-def insta_login(driver):
+def insta_login():
     driver.get("https://www.instagram.com/accounts/login/")
     sleep(3)
     text_area = driver.find_element_by_name("username")
@@ -67,8 +68,7 @@ def insta_login(driver):
     sleep(2)
 
 
-
-def target_login(driver):
+def target_login():
     driver.get("https://vktarget.ru")
     text_area = driver.find_element_by_name("username")
     text_area.send_keys(TARGET_LOGIN)
@@ -78,3 +78,11 @@ def target_login(driver):
 
     submit = driver.find_element_by_xpath("//div[@data-login='login']")
     submit.click()
+
+
+def general_login():
+    target_login()
+    vk_login()
+    insta_login()
+    fb_login()
+    twit_login()
