@@ -1,4 +1,11 @@
 from driver import driver
+from datetime import datetime
+
+
+def debug_screenshot(function_name):
+    screenshot_path = "/Users/dovvakkin/github/screenshot_logs/" + function_name + str(
+        datetime.now().strftime('%Y_%m_%d_%H:%M:%S')) + ".png"
+    driver.save_screenshot(screenshot_path)
 
 
 def like_on_page(link):
@@ -7,7 +14,7 @@ def like_on_page(link):
         like = driver.find_element_by_xpath("//a[@onclick='return ajax.click(this, Like);']")
         like.click()
     except:
-        pass
+        debug_screenshot("VK_like_on_page_")
 
 
 def join_group(link):  #work
@@ -16,7 +23,7 @@ def join_group(link):  #work
         join = driver.find_element_by_xpath("//a[@class='button wide_button']")
         join.click()
     except:
-        pass
+        debug_screenshot("VK_join_group_")
 
 
 def add_to_friends(link):
@@ -25,7 +32,7 @@ def add_to_friends(link):
         add = driver.find_element_by_xpath("//a[@class='button wide_button acceptFriendBtn']")
         add.click()
     except:
-        pass
+        debug_screenshot("VK_add_to_friends_")
 
 def vk_task_manager(task_list):
     for task in task_list:
