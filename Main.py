@@ -2,7 +2,7 @@ import re
 import selenium
 import random
 from time import sleep
-from driver import driver_init, driver
+from driver import driver
 from vk_handler import vk_task_manager
 from fb_handler import fb_task_manager
 from twit_handler import twit_task_manager
@@ -45,10 +45,9 @@ def find_tasks(task_list):  # parse task_list for separated social network tasks
     # if gplus_tasks:
     #     gplus_handler(gplus_tasks)
     if insta_tasks:
-        print("nst")
         insta_task_manager(insta_tasks)
     if twit_tasks:
-        twit_task_manager(insta_tasks)
+        twit_task_manager(twit_tasks)
 
 
 def get_task_list():  # parse target for all tasks
@@ -65,15 +64,10 @@ def get_task_list():  # parse target for all tasks
     return task_list
 
 
-driver_init()
 general_login()
 
-find_tasks(get_task_list())
-sleep(5)
-check_profit()
-
 while True:
-    sleep(60*random.uniform(15, 60)) # чтоб типа как человек
     find_tasks(get_task_list())
     sleep(5)
     check_profit()
+    sleep(60 * random.uniform(15, 60))  # чтоб типа как человек
